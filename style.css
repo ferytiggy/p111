@@ -1,0 +1,45 @@
+body
+{
+  color: white;
+  background: radial-gradient(circle, rgb(226, 241, 9) 0%, rgb(252, 70, 182) 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(43, 250, 71);
+  width: 350px;
+  height: 350px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: purple;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+    font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+h3 { font-size: 72px;
+   background: -webkit-linear-gradient(#2d2add, #0f9fd8);
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: blue; }
